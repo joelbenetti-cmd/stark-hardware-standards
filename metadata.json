@@ -1,0 +1,5 @@
+{
+  "name": "Fastener Standards Manager",
+  "description": "Internal engineering tool to manage and search company fastener standards including screws and bolts.",
+  "requestFramePermissions": []
+}
